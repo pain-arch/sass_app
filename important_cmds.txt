@@ -1,0 +1,3 @@
+Run venv Script ==> .\venv\Scripts\activate
+
+Run development Server ==> python manage.py runserver
